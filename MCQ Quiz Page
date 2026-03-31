@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Knowledge Check</title>
+    <style>
+        body { background: #f3f3f3; padding: 40px; font-family: Arial; line-height: 1.6; }
+        .quiz-container { background: white; max-width: 800px; margin: auto; padding: 30px; border-top: 10px solid #2196f3; border-radius: 5px; }
+        .q-box { margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #eee; }
+        .ans { color: #2e7d32; font-weight: bold; background: #e8f5e9; padding: 5px; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <div class="quiz-container">
+        <h2>Web Technology Quiz</h2>
+        <div class="q-box">1. Role of web technologies?<br><span class="ans">Ans: To design and develop websites</span></div>
+        <div class="q-box">2. Language used for structuring web content?<br><span class="ans">Ans: b) HTML</span></div>
+        <div class="q-box">3. What does HTML stand for?<br><span class="ans">Ans: b) Hypertext Markup Language</span></div>
+        <div class="q-box">4. Tag to define the structure of an HTML document?<br><span class="ans">Ans: c) &lt;html&gt;</span></div>
+        <div class="q-box">5. Tag used to create a hyperlink?<br><span class="ans">Ans: b) &lt;a&gt;</span></div>
+        <div class="q-box">6. What does the &lt;br&gt; tag do?<br><span class="ans">Ans: b) Breaks the line</span></div>
+        <div class="q-box">7. Tag for an ordered list?<br><span class="ans">Ans: a) &lt;ol&gt;</span></div>
+        <div class="q-box">8. Tag to add an image?<br><span class="ans">Ans: a) &lt;img&gt;</span></div>
+        <div class="q-box">9. Purpose of the &lt;meta&gt; tag?<br><span class="ans">Ans: b) Adds metadata description</span></div>
+        <div class="q-box">10. Element for creating a table?<br><span class="ans">Ans: a) &lt;table&gt;</span></div>
+        <div class="q-box">11. Tag for defining the structure of a form?<br><span class="ans">Ans: b) &lt;form&gt;</span></div>
+        <div class="q-box">12. HTML5 introduction for video and audio?<br><span class="ans">Ans: b) &lt;video&gt; and &lt;audio&gt; elements</span></div>
+        <a href="index.html">Return Home</a>
+    </div>
+</body>
+</html>
