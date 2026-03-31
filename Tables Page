@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Presentation</title>
+    <style>
+        body { background: #222; color: #eee; text-align: center; padding-top: 50px; }
+        table { margin: auto; border-collapse: collapse; width: 60%; background: #333; }
+        th, td { border: 1px solid #444; padding: 15px; }
+        th { background: #444; color: #00d4ff; }
+    </style>
+</head>
+<body>
+    <h2>Task 4: Organized Data</h2>
+    <table>
+        <tr><th>Module</th><th>Topic</th><th>Link</th></tr>
+        <tr><td>Task 2</td><td>Multimedia Elements</td><td><a href="multimedia.html" style="color: #00d4ff;">View Image</a></td></tr>
+    </table>
+    <br><a href="index.html" style="color: white;">Return Home</a>
+</body>
+</html>
