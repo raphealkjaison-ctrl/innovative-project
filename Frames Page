@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head><title>Frame Layout</title></head>
-<frameset cols="20%, 80%">
-    <frame src="index.html" name="menu">
-    <frame src="lists.html" name="content">
-    <noframes>
-        <body>Your browser doesn't support frames. <a href="lists.html">View Lists Here</a></body>
-    </noframes>
-</frameset>
-</html>
+
